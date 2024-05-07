@@ -29,6 +29,7 @@ public class Main2 {
             }
         }
 
+
         System.out.println("nomes masculinos:");
         for (String nome : masculinos) {
             System.out.println(nome);
