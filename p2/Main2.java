@@ -34,7 +34,6 @@ public class Main2 {
         for (String nome : masculinos) {
             System.out.println(nome);
         }
-
         System.out.println("\nnomes Femininos:");
         for (String nome : femininos) {
             System.out.println(nome);
